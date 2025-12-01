@@ -117,12 +117,7 @@ Explore more: https://namastedev.com/vikas_singh369
 ## 📬 Contact
 
 * GitHub: https://github.com/vikas-singh369
-
 * LinkedIn: https://www.linkedin.com/in/vikas-singh369
-
-
 * Email: vikashverma3001@gmail.com
-
 * X (Twitter): https://x.com/vikas_singh369
-
 * Portfolio: https://namastedev.com/vikas_singh369
