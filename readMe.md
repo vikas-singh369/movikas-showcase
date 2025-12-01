@@ -1,4 +1,4 @@
-# Movikas Showcase [ live ](http://www.movikas.in/) ☯️
+# Movikas Showcase [ live ](https://www.movikas.in/) ☯️
 
 This repository is the public showcase of **Movikas** — covering product details, features, tech stack, and architecture highlights.  
 
