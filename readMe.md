@@ -1,12 +1,18 @@
-# Movikas Showcase [ live ](https://www.movikas.in/) ☯️
+# Movikas — [Live Demo](https://www.movikas.in)
 
 This repository is the public showcase of **Movikas** — covering product details, features, tech stack, and architecture highlights.  
 
 **Note :** The actual production code for both the frontend and the API-wrapper backend (movikas-api) remains private.
 
-## 📌 Overview
-Find a movie that's worth your time. Movikas helps you discover the right story based on what you want to watch — because your time deserves the perfect film.
 
+## ❗Problem 
+Users waste too much time deciding what to watch. They jump between apps, reviews, and platforms just to find a movie that matches their mood or availability.
+
+## 📌 Solution 
+
+Movikas helps users discover the right movie instantly with clean search, real-time details, accurate OTT availability, AI-powered recommendations based on whatever you write or want, and a personal handpicked collection curated by me.
+
+**Find a movie that's worth your time. Movikas helps you discover the right story based on what you want to watch — because your time deserves the perfect film.**
 
 ## Features
 
