@@ -98,6 +98,15 @@ Movikas helps users discover the right movie instantly with clean search, real-t
 </tr>
 </table>
 
+## Growth 
+**screenshot ( Date: - 07/12/25 )**
+<table>
+<tr>
+<td><img src="./public/repo-assets/growth.png" alt="growth" width="100%"></td>
+  
+</tr>
+</table>
+
 
 ## 🧱 Architecture Overview
 
